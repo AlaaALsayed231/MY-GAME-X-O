@@ -1,6 +1,6 @@
 X-O GAME using windows form in C# .
 
-_this project consiste of there windows form :
+_this project consiste of three windows form :
 
 1_in first form each players must enter their names and choose their symbol otherwise the Game is not start.
 ![001](https://github.com/AlaaALsayed231/MY-GAME-X-O/assets/110902164/f8f75223-aa00-4689-b1de-392d7d669854)
