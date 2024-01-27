@@ -14,6 +14,6 @@ _this project consiste of there windows form :
 
 ![003](https://github.com/AlaaALsayed231/MY-GAME-X-O/assets/110902164/e855c439-dddc-4993-a707-fb259d47dae4)
 
-4-in last for it show all the information about players that are plating before:
+4-in last form it show all the information about players that are plating before:
 
 ![005](https://github.com/AlaaALsayed231/MY-GAME-X-O/assets/110902164/725a7fd7-790d-43ad-9c83-e732cbbfb20d)
